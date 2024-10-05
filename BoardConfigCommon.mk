@@ -6,6 +6,8 @@
 
 COMMON_PATH := device/xiaomi/sm8350-common
 
+TARGET_CAMERA_OVERRIDE_FORMAT_FROM_RESERVED := true
+
 # A/B
 AB_OTA_UPDATER := true
 
